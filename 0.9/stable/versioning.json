@@ -1,0 +1,58 @@
+{
+  "buildTime": "2026-05-11T19:34:42.732Z",
+  "builtWith": {
+    "toolchain": "1.0.0-alpha.86",
+    "types": "1.0.0-alpha.86"
+  },
+  "repository": {
+    "name": "Tracker Extensions (0.9)",
+    "description": "Paperback extensions for integrating with progress tracking services. Maintained by Inkdex."
+  },
+  "sources": [
+    {
+      "name": "AniList",
+      "description": "Extension that integrates with anilist.co for tracking and collection management.",
+      "version": "1.0.0-alpha.14",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "SAFE",
+      "capabilities": [
+        4,
+        2,
+        32,
+        64
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "Celarye",
+          "website": "https://celarye.dev",
+          "github": "https://github.com/Celarye"
+        }
+      ],
+      "id": "AniList"
+    },
+    {
+      "name": "MangaUpdates",
+      "description": "Extension that integrates with mangaupdates.com for tracking and collection management.",
+      "version": "1.0.0-alpha.6",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "SAFE",
+      "capabilities": [
+        4,
+        2,
+        32,
+        64
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "IntermittentlyRupert",
+          "github": "https://github.com/IntermittentlyRupert"
+        }
+      ],
+      "id": "MangaUpdates"
+    }
+  ]
+}
